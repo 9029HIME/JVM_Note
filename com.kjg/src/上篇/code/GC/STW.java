@@ -1,4 +1,4 @@
-package src.code.GC;
+package src.上篇.code.GC;
 
 import java.util.LinkedList;
 import java.util.List;

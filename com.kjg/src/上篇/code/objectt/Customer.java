@@ -1,4 +1,4 @@
-package src.code.objectt;
+package src.上篇.code.objectt;
 
 public class Customer{
     int id = 1001;

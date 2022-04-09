@@ -1,4 +1,4 @@
-package src.code.GC;
+package src.上篇.code.GC;
 
 public class SystemGC {
     public static void main(String[] args) throws InterruptedException {
